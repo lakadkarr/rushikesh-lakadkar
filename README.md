@@ -1,4 +1,4 @@
-# Hi, I'm Rushikesh Lakadkar 👋
+# Hi, I'm Rushikesh Ravi Lakadkar 👋
 
 🎓 M.Sc. Embedded Systems @ TU Chemnitz, Germany  
 🔧 Firmware Developer | ARM Cortex-M4 | FreeRTOS | CAN/LIN/SPI/I2C  
