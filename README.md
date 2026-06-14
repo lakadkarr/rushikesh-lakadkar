@@ -36,7 +36,7 @@ Currently seeking **embedded systems, firmware, or hardware internship opportuni
 
 | Area | Details |
 |---|---|
-| **Microcontrollers** | STM32F (ARM Cortex-M4), Teensy 4.0, Arduino, Raspberry Pi |
+| **Microcontrollers** | STM32F (ARM Cortex-M4), Teensy 4.0, Arduino, ESP32, Raspberry Pi (Basic knowledge) |
 | **RTOS** | FreeRTOS — task scheduling, ISR handling, deterministic control loops |
 | **Protocols** | CAN, LIN, UART, SPI, I2C, Bluetooth / BLE |
 | **Peripherals** | ADC, PWM, Timers, GPIO, DMA |
